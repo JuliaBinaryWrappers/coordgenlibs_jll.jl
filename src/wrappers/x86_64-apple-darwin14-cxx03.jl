@@ -5,9 +5,10 @@ export libcoordgen
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libcoordgen`
-const libcoordgen_splitpath = ["lib", "libcoordgen.1.3.2.dylib"]
+const libcoordgen_splitpath = ["lib", "libcoordgen.1.4.0.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libcoordgen_path = ""

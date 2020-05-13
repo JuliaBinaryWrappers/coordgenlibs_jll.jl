@@ -5,6 +5,7 @@ export libcoordgen
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `libcoordgen`
 const libcoordgen_splitpath = ["lib", "libcoordgen.so"]
