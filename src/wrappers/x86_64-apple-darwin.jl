@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libcoordgen,
-        "lib/libcoordgen.3.0.1.dylib",
+        "lib/libcoordgen.3.0.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

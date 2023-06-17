@@ -1,288 +1,288 @@
 [[coordgenlibs]]
 arch = "aarch64"
-git-tree-sha1 = "46bfc8e12c885bbf8e8f6aaf87d1920681209b1a"
+git-tree-sha1 = "706b17fccfd345a8afd72832ab01733c03004ce1"
 os = "macos"
 
     [[coordgenlibs.download]]
-    sha256 = "b276e6e496f54ab48a685dee39eafc9d6d9da353b55b9819447347f414bf898d"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "06871c54f689fd6e01f75fc1b74fc9b01c931a00cfc31ebfac4ecb313fed380a"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.aarch64-apple-darwin.tar.gz"
 [[coordgenlibs]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "18d859eb2349c8873979e8ba2b2e6deb9476261e"
+git-tree-sha1 = "a86c0f286228095464d6ad866cf43990cbc47a5e"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "5a0a711d7b8814b9e26491b327056ace2dc561bcf50d852b894a95b7355938ab"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "1483acf613ad10eca30c7f6ac9b8f723766b897cce19ea1005c9a5d5784005e1"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8aa895ee3b928b03bd28ad8875062c4c73bde68e"
+git-tree-sha1 = "8c12116aee496ea016bc93fb87f28929a6c33bfa"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "7f821e416cd8f40fb7791488b63a3dc138905ec56b0b36081f7b17e4deba07db"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3a9f5f012cf5df858284efbdb824d2f181cf6749fbe73fac587bb11a067110db"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e06a82560bdba4eed8aca2e1dd3a18ccb5b4052d"
+git-tree-sha1 = "fbeab843c0a8454a062f9b0a274ba8b0cf10c463"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "c2436940f9ce4a87e3514c2a3c34c554f5bf85b461e19b5ed996b442fc77ff91"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "480f8ba057d48bba44bc00f2871701d343220ced02231a9f2f3cdf8cb6f1667f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.aarch64-linux-musl-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7fc89387afb3661733547a1bc761e5f7c63307cf"
+git-tree-sha1 = "63837cbee8c22cefad4f4d263824b6d2fafdcb21"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "deac0c4ab862ea7c41166bbb66cb0958f3d2e942a7e98f4acd2983fdb68449b6"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "7bea6305650fd71fcfd9bdf47692b54506922f64fc7bddaa59e6d7e5d3f5dbb8"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.aarch64-linux-musl-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e9677a0b8a7554977eb381293cfb08de9441add"
+git-tree-sha1 = "39759ae594c4deb832475eed94b3d1d678f4b0dd"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "87804aff9e3b7ea7540c4cf146be4520cf6070c2edeb524073ecce92e06ca3df"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "b1327dacaeddb6e9b3af8529d34dbae2809e3fa384c3ef73575326cea64f156f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc258d36d278a061bd01c038e176c16a04485221"
+git-tree-sha1 = "8f58a591fa315cededb27e260bda2b7a2e80183f"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "fecac783586f9a0e292ece88634faf06e8b81b56dbdb096715d21c3a0cc70829"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "843f07d7437f9f25af2846bfc124157b16747368086c719f0b759e36cb24a0b4"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "97d4ac5533b001913720ece2d6da230db202ad01"
+git-tree-sha1 = "8fe64a07dd26e78dc82a2bd816c604540c9c8abd"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "cdc5edbbd2c9a89a2c74443af94c9a52d3c8a6e8f76bf5deaf6b81750f9f345b"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "ccba5c7b2fa92e377ea421861ddd383ab5aff59901083497c26b5cca2a369716"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bcd5c9efacbfe45e4daed08ce83af0504c690c3b"
+git-tree-sha1 = "e52de9f5bbced7ab16e05a97669bfc75dd3c0305"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "593e296c0d1bbcc90f25bc6066d53428704f48fa40d0a0e1b91533869f51e535"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "75ec48b83250cbe7ec128b55de91ddb66be2f2ee528f509fee1650e80404354c"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c392674230176d3404dd853794cee6e1d788fa40"
+git-tree-sha1 = "cb7acbbaeee672c91e812f2ab1e737bdf8fd9f8b"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "5d5aa915d7c10416e3799572b35c7c81cf11d55defec39504bca816e5e00f7dc"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f21467a5bd2f9b71159971f4a9b182227f8ef0a06a6b6d2c36bc22bceed29abb"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8791b7a3487d14dc8bebb5f8c3d46b260bbd578f"
+git-tree-sha1 = "b5171605e8bafbf62821458b2c53e29c154d8401"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "bcf4b100cf2d8cfc69fd58bcdf3e3d10d30778c0dd43a1459eab65657f239d8b"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "76bd60872a63a19276b59e6a934bb2d0958b89a851aef2db55a174aecd21a4cd"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "394152a9fb6b6bc107ead75238d8200c5f642a89"
+git-tree-sha1 = "9196fbc369359839a2bec834174168e81254e913"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "6798d054d80b9051a117a2cee4f34e702b8064cbd6e634d52124c4c1ec843f45"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "56b4263d399cfe3531945ed2e672515753d7169e2e9cda2812d4a4a149fa2e9c"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "24c84e79cdd88c6a173a97f6318e2913cb7fab23"
+git-tree-sha1 = "880c9b7e8c9ad2ea11ad5d8d66cdd899c84f09b0"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "581354287f6a303eb129739a8e994097ea2c5c0afce5bfabc65421e00e8dd148"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "1334638c89a6cab4e4814a86625f6cfce9498d4cd52638b7108e27f57f470f35"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b62ac47956d01797c860f8ee88daec3a1134c0ef"
+git-tree-sha1 = "fa3fcbff079e3e41349c73a358ff4f358c67bec7"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "0637eed48f93255659264df4a74460866d6db7576f646f1ba800ee63eb3c09fb"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "00fc5f3fcda9dc42b31ea6259cac38a55c2f36c96f8efc16589338d4f0544c5b"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.i686-linux-gnu-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9eaf22f9cf6ca2446285c0b548fa24ad41711d3a"
+git-tree-sha1 = "a31470bf5ea55f46ca95763740c4016112e51647"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "aedd3ee573cabf9d7dd64bc0efa2827ff050db562546ffba2088cebee5032bcb"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "cc2c138e60e7090967518b9ac170388030c56a1d20a24bdbb623e458e6d552c4"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.i686-linux-gnu-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9125565a0125eecb431f09e1896c89c64028ccd5"
+git-tree-sha1 = "6fb0257a03c279ba1698b752dfe60ce883b2ff10"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "dcd930164488aa7406be89cfd981b3553ddb7d558568599dc2057e74a426fd26"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "625a11fb75399d713632382b53ce41a430dcee7f5dc96339d613b567d9e90bff"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.i686-linux-musl-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aaa35a79d2a11445568c1ec03ae1cb2a5e3691d7"
+git-tree-sha1 = "551f553e912c5bf068ebf895b0fbe668b8dcbef4"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "eb45b8c0a222ed9e16187c71717dd7d8a4876b5d9ed82015f5c103f7f3938c03"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "576ea9df73c7d5659a3460d9eea6497bb4d9bc760655efe53292c4493f12dc6f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.i686-linux-musl-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c21409dade58c9278126594bab81528fc6edcf8b"
+git-tree-sha1 = "bc4c29feace6c2f089bcf9901d28d41bf3ee18fd"
 os = "windows"
 
     [[coordgenlibs.download]]
-    sha256 = "00fd3fbe343e2147866955ed389f18543de5040518b193ad797df38c8b8cff7b"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "17759c666a6497d15203e6b00aade38ffc69ba9c47cb8ef2f10c33298bfc7f91"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.i686-w64-mingw32-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2348ca600e5b798c64d508bdca86aa841273a76a"
+git-tree-sha1 = "f62164d08bcc05b3ad81ea9d765b3df7368f5ea4"
 os = "windows"
 
     [[coordgenlibs.download]]
-    sha256 = "b84a9bf8250afb0e6d960771366043919301bad2e457566a8aed0332d8a149ed"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "75bedbb9e12e4aa6da200b342b8c5ba9dfa4d1d0fa78d59db00e0975ebc1475f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.i686-w64-mingw32-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "00ff96d53b5d5ef36fb34ab3ba36cc0da7fba0b3"
+git-tree-sha1 = "3859708a2b888ce9b7fb892ed539f0e9196b4e75"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "72e9cfd22abaddb1ec9921727cd6b0bfa3e48278e86d597b82075cc1ccf072c2"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "e5370ededba56e9de8f6960c730f48f29d502b4f8723fba5f3485bf40fab708f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7432468159e307d4b479ba5b2f5236549f04b76e"
+git-tree-sha1 = "e7a869486e58d99da554ceb9f64b10a4fb061d3e"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "47d57866b583c095b8dd6095641afa929d1854af2b75f40bf9d77ce6350aec95"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "b4f6487a1f2ff2a1d5c112ab517337da8e611501f65e671d4239b51f6ec31bcb"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
-git-tree-sha1 = "6ca5867c77585dfd902eb9b48fb22e19ebdbca43"
+git-tree-sha1 = "4b011df59b7b677c6c9c9a028a5469438cabba9d"
 os = "macos"
 
     [[coordgenlibs.download]]
-    sha256 = "c503ff47fe17da0d6e5246a4dc71751925e54c11ef1a6b6a05b2840305823184"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "25f3bcb02f0d4dcba6b7da5b29e923f009c15eabade625c214b4dce214f6eb86"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-apple-darwin.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83666b6c3927b0a6c61f330a0b181c5873e83935"
+git-tree-sha1 = "f2c90d7bb9a12d2981bbc0507f4b22e155f87891"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "c945d6d9f30e652b3b444a114c170848a78aaee9c1e6d2ad5114b39275f667b4"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "703869397a724770448079cd218895f3e7d4ec2168a7144a08062c9741e9053f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "56613964f0ccae5e281940a67473089e8a73eb0a"
+git-tree-sha1 = "4e5b3556b464fbe5c429b94fd914e6134c5330da"
 libc = "glibc"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "a94f3118e66a15f7112d3c96890e660017364bd1a3aade04b1ab0c9a08490a69"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6523cebff527f5334459027a167ae8746ce460603cf6262ce331b4e7f21e756a"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aa541e1ed36af8c4f6b836642b118909f86331d4"
+git-tree-sha1 = "aae28c5aecd75ad18d94168354f61fa9550bde67"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "711bf9cb35cf5606a91a1592c0aa9443c817f0734fbfb060114bd162f8e79b0a"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "2af06faa8247fd4d4e465e11b9358e496e667acdf979ef2b5e2b45b43dfd33ee"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-linux-musl-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "19074220500a4648903c6a9c4cf6a0bed32ca9d1"
+git-tree-sha1 = "417e251e51ed305fc11d55364d7a12a94e84894d"
 libc = "musl"
 os = "linux"
 
     [[coordgenlibs.download]]
-    sha256 = "1f5117eee95e9f6cc01991b868ad5fd418f7c92e96f983387c703aa9dc2112fc"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "80e72b0ffda0a369c7eba019a3495e82ee471a0e6cd4aba06ae99b81a278382f"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-linux-musl-cxx11.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
-git-tree-sha1 = "bf3a79100debb3a6e9a3ca106414732189ca3165"
+git-tree-sha1 = "5738227142d14d21ed0680faaa4996a0f1cf7b60"
 os = "freebsd"
 
     [[coordgenlibs.download]]
-    sha256 = "0b4e3b69e96cf6c1b54abfd022ead257b78adcb2907dbf934a70bf32e3c88bd6"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e7773b79c9ba9699cf4ed64004efaa6fc8651c42100b434fd81c1403e0e8edb4"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-unknown-freebsd.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cec4a0584a3c0fdde3c3d2c673fa339908528199"
+git-tree-sha1 = "2f47b235d4819b8d3af628040d4790dd45b85abd"
 os = "windows"
 
     [[coordgenlibs.download]]
-    sha256 = "6d30851aa3c096344275af2385729f08a87aff82e9729c7b5511d71d679d220b"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "4204bbb08a661f3539affefa4fb9c0f9e8bd8baf46eda241021182d4f9eb0893"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[coordgenlibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "407b02a8a9f3b43a06751c26251f3186eac140fa"
+git-tree-sha1 = "95185c93ec9c8dc90535746c7f6d1e9e34465b12"
 os = "windows"
 
     [[coordgenlibs.download]]
-    sha256 = "596a5030e2a97870dfe07cf79b7da09fb785ee99bbd7d1c9aa3aa2de70d0c29a"
-    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8853cc43b5c8100eca8227965ad61e2f243d6c6a90f124c2d2e9c82ea23b38d0"
+    url = "https://github.com/JuliaBinaryWrappers/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.2+0/coordgenlibs.v3.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
